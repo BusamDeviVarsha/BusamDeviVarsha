@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BusamDeviVarsha
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning Data Structure and Algorithms and Data Analytics
+- 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me busamdevi2@gmail.com
 - 😄 Pronouns: she/her
 
